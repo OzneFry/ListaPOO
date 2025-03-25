@@ -1,0 +1,14 @@
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\bin\Debug\net9.0\AlunoENota.exe
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\bin\Debug\net9.0\AlunoENota.deps.json
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\bin\Debug\net9.0\AlunoENota.runtimeconfig.json
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\bin\Debug\net9.0\AlunoENota.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\bin\Debug\net9.0\AlunoENota.pdb
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.AssemblyInfoInputs.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.AssemblyInfo.cs
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.csproj.CoreCompileInputs.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\refint\AlunoENota.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.pdb
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\AlunoENota.genruntimeconfig.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\Trabalho Robin\Trabalho Robin\AlunoENota\AlunoENota\obj\Debug\net9.0\ref\AlunoENota.dll
